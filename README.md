@@ -1,6 +1,10 @@
-# Swiftgram
+# ProjectX
 
-Supercharged Telegram fork for iOS
+A customized Telegram iOS client with Swiftgram features, visual enhancements and additional privacy controls.
+
+The work on the client has not yet been completed
+
+#About Swiftgram
 
 [<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="50">](https://apps.apple.com/app/apple-store/id6471879502?pt=126511626&ct=gh&mt=8)
 
